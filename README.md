@@ -44,3 +44,4 @@ This hackpad uses QMK firmware for everything.<br>
 
 ## Yeah that is probably it
 -that was everything I hope that it gets approved.
+NOTE: I used chatgpt to help me with the firmware coding.
