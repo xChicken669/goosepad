@@ -16,9 +16,8 @@ Goosepad is a compact DIY hackpad designed for shortcuts, macros, and custom con
 
 ## CAD
 Used fusion 360 to design the case.<br>
-The case is divided into three parts:<br>
+The case is divided into two parts:<br>
 - Bottom.stl<br>
-- Middle.stl<br>
 - Top.stl<br><br>
 ![Fusion 360 screenshot](/goosepad/screenshot_CAD.png)
 ![Fusion 360 screenshot](/goosepad/screenshot_CAD_assembly.png)
