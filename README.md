@@ -23,7 +23,8 @@ The case is divided into three parts:
 - Bottom.stl
 - Middle.stl
 - Top.stl
-![Goosepad schematic](/goosepad/screenshot_pcb.png)
+![Fusion 360 screenshot](/goosepad/screenshot_CAD.png)
+![Fusion 360 screenshot](/goosepad/screenshot_assembly_cad.png)
 
 ## Schematic
 
