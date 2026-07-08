@@ -1,0 +1,7 @@
+MCU = RP2040
+
+BOOTLOADER = rp2040
+
+OLED_ENABLE = yes
+
+LTO_ENABLE = yes
