@@ -28,7 +28,7 @@ I created the schematic in KiCad, here it is:<br><br>
 ![KiCad screenshot](/goosepad/screenshot_schematic.png)
 
 ## PCB Design
-This is my pcb design that i created in KiCad,it was really fun and chill tracing the pcb:<br><br>
+This is my pcb design that i created in KiCad,it was really fun and chill tracing the pcb<br><br>
 ![KiCad screenshot](goosepad/screenshot_pcb.png)
 
 ## Firmware
